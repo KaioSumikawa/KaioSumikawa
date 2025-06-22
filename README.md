@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Kaio+Sumikawa+%3AD)](https://github.com/kaio-sumikawa)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=008000&center=true&vCenter=true&width=480&height=50&lines=Hello%2C+World!+I'm+Kaio+Sumikawa+%3AD)](https://github.com/kaio-sumikawa)
 
 
 
