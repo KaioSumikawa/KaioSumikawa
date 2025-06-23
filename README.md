@@ -32,29 +32,8 @@
 
 ## 💼 Professional Experience
 
-<span style="display: inline-flex; align-items: center; gap: 6px;">
-  <img src="https://www.svgrepo.com/show/451516/checkbox-checked.svg" width="16" height="16" alt="Checked" style="position: relative; top: 3px;" />
-  <img src="https://logowik.com/content/uploads/images/kyb-kayaba7172.jpg" width="24" alt="KYB logo" style="position: relative; top: 3px;" />
-  <strong>KYB Corporation</strong> — 2023–2025
-</span>
-
-
-<br/>
-
-<span style="display: inline-flex; align-items: center; gap: 6px;">
-  <img src="https://www.svgrepo.com/show/451516/checkbox-checked.svg" width="16" height="16" alt="Checked" style="position: relative; top: 3px;" />
-  <img src="https://cdn.worldvectorlogo.com/logos/sabesp.svg" width="30" alt="SABESP logo" style="position: relative; top: 3px;" />
-  <strong>SABESP</strong> — 2019–2021
-</span>
-
-
-
-
-
-
-
-
-
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/KYB_logo.svg" width="18"> **KYB Corporation** – 2023–2025
+- [x] <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_Sabesp.svg" width="18"> **SABESP** – 2019–2021
 
 
 <hr>
