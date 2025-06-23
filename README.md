@@ -50,6 +50,8 @@
   </a>
 </div>
 
+![Snake animation](https://raw.githubusercontent.com/KaioSumikawa/KaioSumikawa/output/github-contribution-grid-snake.svg)
+
 
 
 
