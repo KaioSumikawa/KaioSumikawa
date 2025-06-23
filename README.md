@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<br><br>
+<hr>
 
 <p align="center">
     <a href="https://github.com/KaioSumikawa">
