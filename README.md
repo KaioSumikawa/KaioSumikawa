@@ -52,10 +52,11 @@
 
 <div align="center">
   <a href="https://github.com/KaioSumikawa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=ADFF2F"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=ADFF2F"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117"/>
   </a>
 </div>
+
 
 
 
