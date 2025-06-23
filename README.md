@@ -30,6 +30,33 @@
 **Degree:** Associate's Degree in Multiplatform Software Development  
 **Period:** 2024 — Present  
 
+## 💼 Professional Experience
+
+<span style="display: inline-flex; align-items: center; gap: 6px;">
+  <img src="https://www.svgrepo.com/show/451516/checkbox-checked.svg" width="16" height="16" alt="Checked" style="position: relative; top: 3px;" />
+  <img src="https://logowik.com/content/uploads/images/kyb-kayaba7172.jpg" width="24" alt="KYB logo" style="position: relative; top: 3px;" />
+  <strong>KYB Corporation</strong> — 2023–2025
+</span>
+
+
+<br/>
+
+<span style="display: inline-flex; align-items: center; gap: 6px;">
+  <img src="https://www.svgrepo.com/show/451516/checkbox-checked.svg" width="16" height="16" alt="Checked" style="position: relative; top: 3px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/sabesp.svg" width="30" alt="SABESP logo" style="position: relative; top: 3px;" />
+  <strong>SABESP</strong> — 2019–2021
+</span>
+
+
+
+
+
+
+
+
+
+
+
 <hr>
 
 <h3>📭 Contact and Portfolio:</h3>
@@ -50,7 +77,6 @@
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/KaioSumikawa/KaioSumikawa/output/github-contribution-grid-snake.svg)
 
 
 
