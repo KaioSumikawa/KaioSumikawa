@@ -26,17 +26,16 @@
 <hr>
 
 ### 🎓 Academic Background  
-**FATEC - Faculty of Technology of São Paulo**  
-**Degree:** Associate's Degree in Multiplatform Software Development  
-**Period:** 2024 - Present  
+| Institution                                      | Degree                                      | Period        |
+|--------------------------------------------------|---------------------------------------------|---------------|
+| **FATEC - Faculty of Technology of São Paulo**   | Associate's Degree in Multiplatform Software Development | 2024–Present  |
+
 
 ## 💼 Professional Experience
-
-- [x] <img src="https://cdn.worldvectorlogo.com/logos/kyb.svg" width="18"> **KYB Corporation** – 2023–2025  
-- [x] <img src="https://cdn.worldvectorlogo.com/logos/sabesp.svg" width="18"> **SABESP** – 2019–2021
-
-
-
+| Company                | Position                 | Period     |
+|------------------------|--------------------------|------------|
+| <img src="https://cdn.worldvectorlogo.com/logos/kyb.svg" width="18"> **KYB Corporation** | Production Operator     | 2023–2025  |
+| <img src="https://cdn.worldvectorlogo.com/logos/sabesp.svg" width="18"> **SABESP**       | Youth Apprentice        | 2019–2021  |
 
 <hr>
 
