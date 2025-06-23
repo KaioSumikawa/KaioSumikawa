@@ -46,11 +46,4 @@
 
 <hr>
 
-<div align="center">
-  <a href="https://github.com/KaioSumikawa" target="_blank">
-    <img height="180em" style="display: block;" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="GitHub stats"/>
-  </a>
-  <a href="https://github.com/KaioSumikawa?tab=languages" target="_blank">
-    <img height="180em" style="display: block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Top languages"/>
-  </a>
-</div>
+<p align="center"><a href="https://github.com/KaioSumikawa" target="_blank"><img height="180em" style="display:inline-block" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="GitHub stats"/></a><a href="https://github.com/KaioSumikawa?tab=languages" target="_blank"><img height="180em" style="display:inline-block" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Top languages"/></a></p>
