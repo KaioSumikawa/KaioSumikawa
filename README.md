@@ -41,18 +41,20 @@
 
 <h3>📭 Contact and Portfolio:</h3>
 
-<a href="https://www.linkedin.com/in/kaio-sumikawa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/toshiyuki.ks/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+<p>
+  <a href="https://www.linkedin.com/in/kaio-sumikawa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/toshiyuki.ks/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 <hr>
 
 <div align="center">
   <a href="https://github.com/KaioSumikawa">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=ADFF2F"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=ADFF2F"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117"/>
   </a>
 </div>
