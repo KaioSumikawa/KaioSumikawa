@@ -92,7 +92,7 @@
 
 <!-- Contact Information -->
 <section>
-  <h2>📭 Contact & Portfolio</h2>
+  <h2> Contact & Portfolio</h2>
   <div style="display: flex; gap: 10px; flex-wrap: wrap;">
     <a href="https://www.linkedin.com/in/kaio-sumikawa/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"></a><a href="https://www.instagram.com/toshiyuki.ks/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile"></a>
   </div>
@@ -102,7 +102,7 @@
 
 <!-- GitHub Statistics -->
 <section>
-  <h2>📊 GitHub Statistics</h2>
+  <h2> GitHub Statistics</h2>
   <p align="center">
     <a href="https://github.com/KaioSumikawa" target="_blank" rel="noopener noreferrer"><img height="180em" style="display: inline-block; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Kaio Sumikawa's GitHub Statistics"></a><a href="https://github.com/KaioSumikawa?tab=languages" target="_blank" rel="noopener noreferrer"><img height="180em" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Most Used Programming Languages"></a>
   </p>
