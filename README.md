@@ -12,7 +12,7 @@
 
 <!-- Technologies & Skills -->
 <section>
-  <h2>🚀 Technologies & Tools</h2>
+  <h2> Technologies & Tools</h2>
   <div style="display: flex; gap: 10px; flex-wrap: wrap; justify-content: center;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" 
          alt="JavaScript" />
@@ -43,7 +43,7 @@
 
 <!-- Education -->
 <section>
-  <h2>🎓 Academic Background</h2>
+  <h2> Academic Background</h2>
   <table>
     <thead>
       <tr>
@@ -64,7 +64,7 @@
 
 <!-- Professional Experience -->
 <section>
-  <h2>💼 Professional Experience</h2>
+  <h2> Professional Experience</h2>
   <table>
     <thead>
       <tr>
