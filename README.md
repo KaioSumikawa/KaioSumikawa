@@ -58,7 +58,7 @@
       <tr>
         <td><strong>FATEC - Faculty of Technology of São Paulo</strong></td>
         <td>Associate's Degree in Multiplatform Software Development</td>
-        <td>2024–2027</td>
+        <td>2025–2027</td>
       </tr>
     </tbody>
   </table>
