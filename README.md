@@ -60,6 +60,11 @@
         <td>Associate's Degree in Multiplatform Software Development</td>
         <td>2025–2027</td>
       </tr>
+      <tr>
+        <td><strong>SENAC - National Service for Commercial Learning</strong></td>
+        <td>Systems Development Technician</td>
+        <td>2025–2027</td>
+      </tr>
     </tbody>
   </table>
 </section>
