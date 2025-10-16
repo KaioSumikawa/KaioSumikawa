@@ -83,12 +83,12 @@
     <tbody>
       <tr>
         <td><strong>KYB Corporation</strong></td>
-        <td>Production Operator</td>
+        <td>Bilingual Interpreter</td>
         <td>2023–2025</td>
       </tr>
       <tr>
         <td><strong>SABESP</strong></td>
-        <td>Youth Apprentice</td>
+        <td>Administrative Assistant</td>
         <td>2019–2021</td>
       </tr>
     </tbody>
