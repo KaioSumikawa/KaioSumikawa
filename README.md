@@ -82,7 +82,7 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>Family Mart JAPAN</strong></td>
+        <td><strong>Family Mart</strong></td>
         <td>Operations assistant</td>
         <td>2022–2025</td>
       </tr>
