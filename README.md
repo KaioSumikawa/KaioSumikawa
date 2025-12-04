@@ -82,9 +82,9 @@
     </thead>
     <tbody>
       <tr>
-        <td><strong>KYB Corporation</strong></td>
-        <td>Bilingual Interpreter</td>
-        <td>2023–2025</td>
+        <td><strong>Family Mart JAPAN</strong></td>
+        <td>Operations assistant</td>
+        <td>2022–2025</td>
       </tr>
       <tr>
         <td><strong>SABESP</strong></td>
