@@ -8,7 +8,6 @@
   </p>
 </header>
 
-<hr>
 
 <!-- Technologies & Skills -->
 <section>
@@ -43,7 +42,6 @@
   </div>
 </section>
 
-<hr>
 
 <!-- Education -->
 <section>
@@ -97,7 +95,6 @@
   </table>
 </section>
 
-<hr>
 
 <!-- Contact Information -->
 <section>
@@ -107,7 +104,6 @@
   </div>
 </section>
 
-<hr>
 
 <!-- GitHub Statistics -->
 <section>
