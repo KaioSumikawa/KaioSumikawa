@@ -2,8 +2,8 @@
 <header>
   <p align="center">
     <a href="https://github.com/kaio-sumikawa">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=435&lines=Hello%2C+World!+I'm+Kaio+Sumikawa" 
-           alt="Typing SVG - Hello, World! I'm Kaio Sumikawa">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ADFF2F&center=true&vCenter=true&width=435&lines=Hi,+I'm+Kaio+Sumikawa!" 
+           alt="Typing SVG - Hi! I'm Kaio Sumikawa">
     </a>
   </p>
 </header>
@@ -42,58 +42,6 @@
   </div>
 </section>
 
-
-<!-- Education -->
-<section>
-  <h2> Academic Background</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Institution</th>
-        <th>Degree</th>
-        <th>Period</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>FATEC - Faculty of Technology of São Paulo</strong></td>
-        <td>Associate's Degree in Multiplatform Software Development</td>
-        <td>2025–2027</td>
-      </tr>
-      <tr>
-        <td><strong>SENAC - National Service for Commercial Learning</strong></td>
-        <td>Systems Development Technician</td>
-        <td>2025–2027</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
-
-<!-- Professional Experience -->
-<section>
-  <h2> Professional Experience</h2>
-  <table>
-    <thead>
-      <tr>
-        <th>Company</th>
-        <th>Position</th>
-        <th>Period</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Family Mart</strong></td>
-        <td>Operations assistant</td>
-        <td>2022–2025</td>
-      </tr>
-      <tr>
-        <td><strong>SABESP</strong></td>
-        <td>Administrative Assistant</td>
-        <td>2019–2021</td>
-      </tr>
-    </tbody>
-  </table>
-</section>
 
 
 <!-- Contact Information -->
