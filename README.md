@@ -57,6 +57,15 @@
 <section>
   <h2> GitHub Statistics</h2>
   <p align="center">
-    <a href="https://github.com/KaioSumikawa" target="_blank" rel="noopener noreferrer"><img height="180em" style="display: inline-block; margin-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&theme=dark&include_all_commits=true&count_private=true&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Kaio Sumikawa's GitHub Statistics"></a><a href="https://github.com/KaioSumikawa?tab=languages" target="_blank" rel="noopener noreferrer"><img height="180em" style="display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&theme=dark&title_color=ADFF2F&text_color=ADFF2F&icon_color=ADFF2F&border_color=0d1117" alt="Most Used Programming Languages"></a>
+    <a href="https://github.com/KaioSumikawa" target="_blank" rel="noopener noreferrer">
+      <img height="180em" style="display: inline-block; margin-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=KaioSumikawa&show_icons=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=0D1117&include_all_commits=true&count_private=true"
+        alt="Kaio Sumikawa's GitHub Statistics">
+    </a>
+    <a href="https://github.com/KaioSumikawa?tab=languages" target="_blank" rel="noopener noreferrer">
+      <img height="180em" style="display: inline-block;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioSumikawa&layout=compact&langs_count=16&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=0D1117"
+        alt="Most Used Programming Languages">
+    </a>
   </p>
 </section>
